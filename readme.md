@@ -1,0 +1,17 @@
+# Parcel
+- Dev Build
+- Local Server
+- HMR = Hot Module Reload
+- File Watching Algorith
+- Caching
+- Image Optimization
+- Minification
+- Bundling
+- Compress
+- Consistent Hashing
+- Code Splitting
+- Differential Bundling
+- Diagnostic
+- Error Handling
+- Https
+- Tree Shaking - remove unsed code
